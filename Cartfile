@@ -1,0 +1,12 @@
+# networking 
+github "Alamofire/Alamofire" ~> 3.4
+
+# Object model
+github "Hearst-DD/ObjectMapper"
+
+# Utility
+github "SwiftyJSON/SwiftyJSON"
+
+# security, HMAC digest
+github "soffes/Crypto"
+github "kishikawakatsumi/KeychainAccess"
